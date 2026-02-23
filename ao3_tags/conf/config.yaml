@@ -1,0 +1,28 @@
+project_dir: LOCATION_OF_THIS_REPOSITORY_ON_A_CLUSTER
+tag_path: LOCATION_OF_TAG_JSONL_ON_A_CLUSTER
+
+kibana:
+  key: YOUR_KEY
+  host: YOUR_ES_HOST
+
+huggingface:
+  key: YOUR_KEY
+
+docker:
+  registry: registry.webis.de
+  repository: code-lib/public-images/theses/thesis-schmidt-seb
+  parent_repository: code-lib/public-images/webis/spark
+
+spark_base:
+  image_url: registry.webis.de/code-lib/public-images/webis/spark:3.5.0-py3.11
+  initial_executors: 4
+  max_executors: 120
+  executor_memory: 10g
+  driver_memory: 10g
+
+spark_graphframes:
+  image_url: registry.webis.de/code-lib/public-images/theses/thesis-schmidt-seb:3.4.2-py3.10-graphframes
+  initial_executors: 4
+  max_executors: 80
+  executor_memory: 10g
+  driver_memory: 10g

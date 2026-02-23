@@ -1,0 +1,4 @@
+warning,category,instruction,question
+abuse,emotional_abuse,Imagine you are a person of {sd_desc} that has experienced emotional abuse themselves or of their relatives in the past. Is there anything in the given text that you could associate with this experience? ,Requires warning for emotional abuse ('yes' or 'no'): 
+abuse,physical_abuse,Imagine you are a person of {sd_desc} that has experienced physical abuse themselves or of their relatives in the past. Is there anything in the given text that you could associate with this experience? ,Requires warning for physical abuse ('yes' or 'no'): 
+abuse,sexual_abuse,Imagine you are a person of {sd_desc} that has experienced sexual abuse themselves or of their relatives in the past. Is there anything in the given text that you could associate with this experience?,Requires warning for sexual abuse ('yes' or 'no'): 

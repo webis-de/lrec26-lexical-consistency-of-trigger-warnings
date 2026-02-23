@@ -1,0 +1,354 @@
+indicator,word,pos_tag
+"bleeding, pain or itching in genital area",bleed,VERB
+"bleeding, pain or itching in genital area",bleeding,NOUN
+"bleeding, pain or itching in genital area",blood,NOUN
+"bleeding, pain or itching in genital area",discharge,NOUN
+"bleeding, pain or itching in genital area",genital,NOUN
+"bleeding, pain or itching in genital area",itch,NOUN
+"bleeding, pain or itching in genital area",itching,NOUN
+"bleeding, pain or itching in genital area",itchy,ADJ
+"bleeding, pain or itching in genital area",scratching,VERB
+bruised breasts,breast,NOUN
+bruised breasts,bruise,NOUN
+bruised breasts,bruised,ADJ
+bruised breasts,bruising,NOUN
+"bruised genital area, thighs or buttocks",bruise,NOUN
+"bruised genital area, thighs or buttocks",bruised,ADJ
+"bruised genital area, thighs or buttocks",bruising,NOUN
+"bruised genital area, thighs or buttocks",buttocks,NOUN
+"bruised genital area, thighs or buttocks",discolored,ADJ
+"bruised genital area, thighs or buttocks",genital,NOUN
+"bruised genital area, thighs or buttocks",hematoma,NOUN
+"bruised genital area, thighs or buttocks",lesion,NOUN
+"bruised genital area, thighs or buttocks",thigh,NOUN
+change in sexual behavior or sexual attitude,anxiety,NOUN
+change in sexual behavior or sexual attitude,celibate,ADJ
+change in sexual behavior or sexual attitude,hypersexuality,NOUN
+change in sexual behavior or sexual attitude,intimacy,NOUN
+change in sexual behavior or sexual attitude,intimate,ADJ
+change in sexual behavior or sexual attitude,libido,NOUN
+change in sexual behavior or sexual attitude,promiscuity,NOUN
+change in sexual behavior or sexual attitude,promiscuous,ADJ
+change in sexual behavior or sexual attitude,sex,NOUN
+change in sexual behavior or sexual attitude,sexual,ADJ
+fear of or withdrawal from relationships,anxiety,NOUN
+fear of or withdrawal from relationships,fear,NOUN
+fear of or withdrawal from relationships,fearful,ADJ
+fear of or withdrawal from relationships,isolation,NOUN
+fear of or withdrawal from relationships,mistrust,NOUN
+fear of or withdrawal from relationships,solitude,NOUN
+fear of or withdrawal from relationships,withdrawal,NOUN
+fear of receiving help with personal care,distrust,NOUN
+fear of receiving help with personal care,fear,NOUN
+fear of receiving help with personal care,fearful,ADJ
+fear of receiving help with personal care,hygiene,NOUN
+fear of receiving help with personal care,scared,ADJ
+fear of receiving help with personal care,sensitive,ADJ
+fear of receiving help with personal care,terrified,ADJ
+fear of receiving help with personal care,unease,NOUN
+fear of receiving help with personal care,uneasy,ADJ
+fear to be alone with a particular person,avoid,VERB
+fear to be alone with a particular person,avoidance,NOUN
+fear to be alone with a particular person,dread,NOUN
+fear to be alone with a particular person,dread,VERB
+fear to be alone with a particular person,fear,NOUN
+fear to be alone with a particular person,fearful,ADJ
+fear to be alone with a particular person,scared,ADJ
+fear to be alone with a particular person,terrified,ADJ
+fear to be alone with a particular person,unease,NOUN
+"forced witnessing of sexual acts, sexual photography or pornography",coerce,VERB
+"forced witnessing of sexual acts, sexual photography or pornography",coerced,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",coercing,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",coercion,NOUN
+"forced witnessing of sexual acts, sexual photography or pornography",coercive,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",exhibit,VERB
+"forced witnessing of sexual acts, sexual photography or pornography",explicit,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",expose,VERB
+"forced witnessing of sexual acts, sexual photography or pornography",exposure,NOUN
+"forced witnessing of sexual acts, sexual photography or pornography",force,VERB
+"forced witnessing of sexual acts, sexual photography or pornography",forced,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",involuntary,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",pornography,VERB
+"forced witnessing of sexual acts, sexual photography or pornography",pressure,VERB
+"forced witnessing of sexual acts, sexual photography or pornography",pressured,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",sex,NOUN
+"forced witnessing of sexual acts, sexual photography or pornography",sexual,ADJ
+"forced witnessing of sexual acts, sexual photography or pornography",unwilling,ADJ
+foreign body in genital or rectal opening,anal,ADJ
+foreign body in genital or rectal opening,anus,NOUN
+foreign body in genital or rectal opening,genital,NOUN
+foreign body in genital or rectal opening,insert,VERB
+foreign body in genital or rectal opening,inserted,ADJ
+foreign body in genital or rectal opening,insertion,NOUN
+foreign body in genital or rectal opening,pussy,NOUN
+foreign body in genital or rectal opening,ram,VERB
+foreign body in genital or rectal opening,rectal,ADJ
+foreign body in genital or rectal opening,vagina,NOUN
+foreign body in genital or rectal opening,vaginal,ADJ
+genital discharge,discharge,NOUN
+genital discharge,excrete,NOUN
+genital discharge,genital,NOUN
+genital discharge,leak,VERB
+genital discharge,ooze,VERB
+genital discharge,outflow,NOUN
+genital discharge,secretion,NOUN
+inappropriate looking or staring,creepy,ADJ
+inappropriate looking or staring,eyeball,VERB
+inappropriate looking or staring,inappropriate,ADJ
+inappropriate looking or staring,lurk,VERB
+inappropriate looking or staring,salacious,ADJ
+inappropriate looking or staring,stalk,VERB
+inappropriate looking or staring,stalked,ADJ
+inappropriate looking or staring,stalker,NOUN
+inappropriate looking or staring,stalking,ADJ
+inappropriate looking or staring,stare,NOUN
+inappropriate looking or staring,stare,VERB
+inappropriate looking or staring,voyeur,VERB
+inappropriate touch,boundary,NOUN
+inappropriate touch,grope,NOUN
+inappropriate touch,grope,VERB
+inappropriate touch,groped,ADJ
+inappropriate touch,groping,ADJ
+inappropriate touch,groping,NOUN
+inappropriate touch,inappropriate,ADJ
+inappropriate touch,intimate,ADJ
+inappropriate touch,molest,VERB
+inappropriate touch,molestation,NOUN
+inappropriate touch,molested,ADJ
+inappropriate touch,molesting,ADJ
+inappropriate touch,stroke,VERB
+inappropriate touch,touch,NOUN
+inappropriate touch,touch,VERB
+incontinence,dysfunction,NOUN
+incontinence,incontinence,NOUN
+incontinence,soil,VERB
+incontinence,wet,VERB
+indecent exposure,exhibitionism,NOUN
+indecent exposure,expose,VERB
+indecent exposure,exposed,ADJ
+indecent exposure,flash,VERB
+indecent exposure,indecency,NOUN
+indecent exposure,indecent,ADJ
+indecent exposure,revealing,VERB
+indecent exposure,strip,VERB
+indecent exposure,unveiling,VERB
+infected genitals,genital,NOUN
+infected genitals,infected,ADJ
+infected genitals,inflamed,ADJ
+infected genitals,irritated,ADJ
+infected genitals,itchy,ADJ
+infected genitals,penis,NOUN
+infected genitals,vagina,NOUN
+marks on the neck,asphyxiate,VERB
+marks on the neck,bruise,NOUN
+marks on the neck,choke,VERB
+marks on the neck,fingermark,NOUN
+marks on the neck,neck,NOUN
+marks on the neck,pressure,VERB
+marks on the neck,strangle,VERB
+marks on the neck,strangulation,NOUN
+non-consensual masturbation,fap,VERB
+non-consensual masturbation,jerk,VERB
+non-consensual masturbation,masturbate,VERB
+non-consensual masturbation,masturbation,NOUN
+non-consensual masturbation,perverse,ADJ
+non-consensual masturbation,perversion,NOUN
+non-consensual masturbation,pervert,NOUN
+non-consensual masturbation,perverted,ADJ
+non-consensual masturbation,rub,VERB
+"non-consensual sexual penetration of vagina, anus or mouth",anus,NOUN
+"non-consensual sexual penetration of vagina, anus or mouth",ass,NOUN
+"non-consensual sexual penetration of vagina, anus or mouth",consensual,ADJ
+"non-consensual sexual penetration of vagina, anus or mouth",consent,NOUN
+"non-consensual sexual penetration of vagina, anus or mouth",consent,VERB
+"non-consensual sexual penetration of vagina, anus or mouth",consenting,ADJ
+"non-consensual sexual penetration of vagina, anus or mouth",nonconsensual,ADJ
+"non-consensual sexual penetration of vagina, anus or mouth",penetrate,VERB
+"non-consensual sexual penetration of vagina, anus or mouth",penetration,NOUN
+"non-consensual sexual penetration of vagina, anus or mouth",pussy,NOUN
+"non-consensual sexual penetration of vagina, anus or mouth",sex,NOUN
+"non-consensual sexual penetration of vagina, anus or mouth",sexual,ADJ
+"non-consensual sexual penetration of vagina, anus or mouth",thrust,VERB
+"non-consensual sexual penetration of vagina, anus or mouth",vagina,NOUN
+poor concentration,concentration,NOUN
+poor concentration,disorganized,ADJ
+poor concentration,forgetful,ADJ
+poor concentration,inattentive,ADJ
+poor concentration,unfocused,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,consensual,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,consent,NOUN
+pregnancy in a woman who is unable to consent to sexual intercourse,consent,VERB
+pregnancy in a woman who is unable to consent to sexual intercourse,consenting,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,drugged,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,drunk,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,exploit,VERB
+pregnancy in a woman who is unable to consent to sexual intercourse,exploitation,NOUN
+pregnancy in a woman who is unable to consent to sexual intercourse,exploited,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,exploiting,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,impregnate,VERB
+pregnancy in a woman who is unable to consent to sexual intercourse,impregnation,NOUN
+pregnancy in a woman who is unable to consent to sexual intercourse,incest,NOUN
+pregnancy in a woman who is unable to consent to sexual intercourse,incestuous,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,intoxicated,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,nonconsensual,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,pregnant,ADJ
+pregnancy in a woman who is unable to consent to sexual intercourse,unconscious,ADJ
+rape or attempted rape,assault,NOUN
+rape or attempted rape,assault,VERB
+rape or attempted rape,assaulted,ADJ
+rape or attempted rape,assaulting,ADJ
+rape or attempted rape,brutalize,VERB
+rape or attempted rape,defile,VERB
+rape or attempted rape,degradation,NOUN
+rape or attempted rape,degrade,VERB
+rape or attempted rape,degraded,ADJ
+rape or attempted rape,degrading,ADJ
+rape or attempted rape,depredate,VERB
+rape or attempted rape,depredation,NOUN
+rape or attempted rape,dominate,VERB
+rape or attempted rape,dominated,ADJ
+rape or attempted rape,dominating,ADJ
+rape or attempted rape,molest,VERB
+rape or attempted rape,molestation,NOUN
+rape or attempted rape,molested,ADJ
+rape or attempted rape,offender,NOUN
+rape or attempted rape,overpower,VERB
+rape or attempted rape,predator,NOUN
+rape or attempted rape,rape,NOUN
+rape or attempted rape,rape,VERB
+rape or attempted rape,raped,ADJ
+rape or attempted rape,raping,ADJ
+rape or attempted rape,ravage,VERB
+rape or attempted rape,ravish,VERB
+rape or attempted rape,ravished,ADJ
+rape or attempted rape,restrain,VERB
+rape or attempted rape,restrained,ADJ
+rape or attempted rape,shame,NOUN
+rape or attempted rape,subjugate,VERB
+rape or attempted rape,subjugated,ADJ
+rape or attempted rape,survivor,NOUN
+rape or attempted rape,undress,VERB
+rape or attempted rape,undressed,ADJ
+rape or attempted rape,unprotected,ADJ
+rape or attempted rape,victimize,VERB
+rape or attempted rape,violate,VERB
+rape or attempted rape,violated,ADJ
+rape or attempted rape,violating,ADJ
+rape or attempted rape,violation,NOUN
+self-harming,depressed,ADJ
+self-harming,depression,NOUN
+self-harming,suicidal,ADJ
+self-harming,suicide,NOUN
+sexual activity that the person lacks the capacity to consent to,consensual,ADJ
+sexual activity that the person lacks the capacity to consent to,consent,NOUN
+sexual activity that the person lacks the capacity to consent to,consent,VERB
+sexual activity that the person lacks the capacity to consent to,consenting,ADJ
+sexual activity that the person lacks the capacity to consent to,drugged,ADJ
+sexual activity that the person lacks the capacity to consent to,drunk,ADJ
+sexual activity that the person lacks the capacity to consent to,exploit,VERB
+sexual activity that the person lacks the capacity to consent to,exploited,ADJ
+sexual activity that the person lacks the capacity to consent to,groom,VERB
+sexual activity that the person lacks the capacity to consent to,groomed,ADJ
+sexual activity that the person lacks the capacity to consent to,grooming,NOUN
+sexual activity that the person lacks the capacity to consent to,helpless,ADJ
+sexual activity that the person lacks the capacity to consent to,incapacity,NOUN
+sexual activity that the person lacks the capacity to consent to,incest,NOUN
+sexual activity that the person lacks the capacity to consent to,incestuous,ADJ
+sexual activity that the person lacks the capacity to consent to,intoxicated,ADJ
+sexual activity that the person lacks the capacity to consent to,nonconsensual,ADJ
+sexual activity that the person lacks the capacity to consent to,pedophile,NOUN
+sexual activity that the person lacks the capacity to consent to,predator,NOUN
+sexual activity that the person lacks the capacity to consent to,rape,NOUN
+sexual activity that the person lacks the capacity to consent to,rape,VERB
+sexual activity that the person lacks the capacity to consent to,raped,ADJ
+sexual activity that the person lacks the capacity to consent to,sex,NOUN
+sexual activity that the person lacks the capacity to consent to,sexual,ADJ
+sexual activity that the person lacks the capacity to consent to,unconscious,ADJ
+sexual activity that the person lacks the capacity to consent to,underage,ADJ
+sexual activity that the person lacks the capacity to consent to,unwilling,ADJ
+sexual activity that the person lacks the capacity to consent to,vulnerable,ADJ
+sexual assault,assault,NOUN
+sexual assault,assault,VERB
+sexual assault,assaulted,ADJ
+sexual assault,assaulting,ADJ
+sexual assault,degradation,NOUN
+sexual assault,degrade,VERB
+sexual assault,degraded,ADJ
+sexual assault,degrading,ADJ
+sexual assault,grope,VERB
+sexual assault,harass,VERB
+sexual assault,harassed,ADJ
+sexual assault,harasser,NOUN
+sexual assault,harassing,ADJ
+sexual assault,harassment,NOUN
+sexual assault,humiliate,VERB
+sexual assault,humiliated,ADJ
+sexual assault,humiliating,ADJ
+sexual assault,humiliation,NOUN
+sexual assault,molest,VERB
+sexual assault,molestation,NOUN
+sexual assault,molested,ADJ
+sexual assault,rape,NOUN
+sexual assault,rape,VERB
+sexual assault,raped,ADJ
+sexual assault,sex,NOUN
+sexual assault,sexual,ADJ
+sexual assault,violate,VERB
+sexual assault,violated,ADJ
+sexual assault,violation,NOUN
+sexual harassment,boundary,NOUN
+sexual harassment,harass,VERB
+sexual harassment,harasser,NOUN
+sexual harassment,harassment,NOUN
+sexual harassment,objectify,VERB
+sexual harassment,sexual,ADJ
+sexual harassment,unwelcome,ADJ
+sexually transmitted disease,aids,NOUN
+sexually transmitted disease,chlamydia,NOUN
+sexually transmitted disease,gonorrhea,NOUN
+sexually transmitted disease,herpes,NOUN
+sexually transmitted disease,hiv,NOUN
+sexually transmitted disease,sexual,ADJ
+sexually transmitted disease,std,NOUN
+sexually transmitted disease,syphilis,NOUN
+sleep disturbance,insomnia,NOUN
+sleep disturbance,nightmares,NOUN
+sleep disturbance,restless,ADJ
+sleep disturbance,sleepless,ADJ
+"torn, stained or bloody underclothing",underclothing,NOUN
+"torn, stained or bloody underclothing",underpants,NOUN
+"torn, stained or bloody underclothing",underwear,NOUN
+uncharacteristic use of explicit sexual language,obscene,ADJ
+uncharacteristic use of explicit sexual language,obscenity,ADJ
+uncharacteristic use of explicit sexual language,sexual,ADJ
+uncharacteristic use of explicit sexual language,vulgar,ADJ
+unexplained venereal disease,chlamydia,NOUN
+unexplained venereal disease,gonorrhea,NOUN
+unexplained venereal disease,herpes,NOUN
+unexplained venereal disease,std,NOUN
+unexplained venereal disease,syphilis,NOUN
+unexplained venereal disease,unprotected,ADJ
+unsolicited sexual teasing or innuendo,catcall,VERB
+unsolicited sexual teasing or innuendo,flirtation,NOUN
+unsolicited sexual teasing or innuendo,harassment,NOUN
+unsolicited sexual teasing or innuendo,salacious,ADJ
+unsolicited sexual teasing or innuendo,sexual,ADJ
+unsolicited sexual teasing or innuendo,suggestive,ADJ
+unsolicited sexual teasing or innuendo,unsolicited,ADJ
+unsolicited sexual teasing or innuendo,unwanted,ADJ
+unsolicited sexual teasing or innuendo,unwelcome,ADJ
+vaginal or anal bleeding,anal,ADJ
+vaginal or anal bleeding,anus,NOUN
+vaginal or anal bleeding,bleed,VERB
+vaginal or anal bleeding,bleeding,NOUN
+vaginal or anal bleeding,blood,NOUN
+vaginal or anal bleeding,bloodstained,ADJ
+vaginal or anal bleeding,rectal,NOUN
+vaginal or anal bleeding,rectum,NOUN
+vaginal or anal bleeding,vagina,NOUN
+vaginal or anal bleeding,vaginal,ADJ
+withdrawal,isolate,VERB
+withdrawal,loneliness,NOUN
+withdrawal,lonely,ADJ
+withdrawal,withdraw,VERB
+withdrawal,withdrawal,NOUN

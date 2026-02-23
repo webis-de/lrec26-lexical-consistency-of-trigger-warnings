@@ -1,0 +1,539 @@
+indicator,word,pos_tag
+abuser leaving person unattended when they need assistance,abandon,VERB
+abuser leaving person unattended when they need assistance,abandoned,ADJ
+abuser leaving person unattended when they need assistance,abandoning,ADJ
+abuser leaving person unattended when they need assistance,abandonment,NOUN
+abuser leaving person unattended when they need assistance,apathetic,ADJ
+abuser leaving person unattended when they need assistance,apathy,NOUN
+abuser leaving person unattended when they need assistance,desert,VERB
+abuser leaving person unattended when they need assistance,deserted,ADJ
+abuser leaving person unattended when they need assistance,deserting,ADJ
+abuser leaving person unattended when they need assistance,desertion,NOUN
+abuser leaving person unattended when they need assistance,disregard,NOUN
+abuser leaving person unattended when they need assistance,disregard,VERB
+abuser leaving person unattended when they need assistance,disregarded,ADJ
+abuser leaving person unattended when they need assistance,disregarding,ADJ
+abuser leaving person unattended when they need assistance,helpless,ADJ
+abuser leaving person unattended when they need assistance,helplessness,NOUN
+abuser leaving person unattended when they need assistance,ignorance,NOUN
+abuser leaving person unattended when they need assistance,ignore,VERB
+abuser leaving person unattended when they need assistance,ignored,ADJ
+abuser leaving person unattended when they need assistance,ignoring,ADJ
+abuser leaving person unattended when they need assistance,neglect,NOUN
+abuser leaving person unattended when they need assistance,neglect,VERB
+abuser leaving person unattended when they need assistance,neglected,ADJ
+abuser leaving person unattended when they need assistance,neglecting,ADJ
+abuser leaving person unattended when they need assistance,negligence,NOUN
+abuser leaving person unattended when they need assistance,reject,VERB
+abuser leaving person unattended when they need assistance,rejection,NOUN
+abuser leaving person unattended when they need assistance,unattended,ADJ
+abuser leaving person unattended when they need assistance,unattending,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",denied,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",deny,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",deprivation,NOUN
+"abuser preventing person from accessing education, social opportunities or seeing friends",deprive,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",deprived,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",depriving,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",distrust,NOUN
+"abuser preventing person from accessing education, social opportunities or seeing friends",distrust,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",distrustful,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",forbid,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",forbiddance,NOUN
+"abuser preventing person from accessing education, social opportunities or seeing friends",forbidden,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",hinder,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",hindered,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",hindering,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",isolate,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",isolated,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",isolating,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",isolation,NOUN
+"abuser preventing person from accessing education, social opportunities or seeing friends",jealous,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",jealousy,NOUN
+"abuser preventing person from accessing education, social opportunities or seeing friends",prevent,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",prevented,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",preventing,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",prohibit,VERB
+"abuser preventing person from accessing education, social opportunities or seeing friends",prohibited,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",prohibiting,ADJ
+"abuser preventing person from accessing education, social opportunities or seeing friends",trust,NOUN
+"abuser preventing person from accessing education, social opportunities or seeing friends",trust,VERB
+abuser preventing person from expressing choice or opinion,disempower,VERB
+abuser preventing person from expressing choice or opinion,disempowering,ADJ
+abuser preventing person from expressing choice or opinion,overbear,VERB
+abuser preventing person from expressing choice or opinion,overbearance,NOUN
+abuser preventing person from expressing choice or opinion,overbearing,ADJ
+abuser preventing person from expressing choice or opinion,powerless,ADJ
+abuser preventing person from expressing choice or opinion,repress,VERB
+abuser preventing person from expressing choice or opinion,repressed,ADJ
+abuser preventing person from expressing choice or opinion,repressing,ADJ
+abuser preventing person from expressing choice or opinion,repression,NOUN
+abuser preventing person from expressing choice or opinion,silence,VERB
+abuser preventing person from expressing choice or opinion,silenced,ADJ
+abuser preventing person from expressing choice or opinion,silencing,ADJ
+abuser preventing person from expressing choice or opinion,suppress,VERB
+abuser preventing person from expressing choice or opinion,suppressed,ADJ
+abuser preventing person from expressing choice or opinion,suppressing,ADJ
+abuser preventing person from expressing choice or opinion,suppression,NOUN
+abuser preventing person from expressing choice or opinion,voiceless,ADJ
+abuser preventing person from expressing choice or opinion,voicelessness,NOUN
+"abuser preventing person from meaningful occupation, activities or stimulation",bored,ADJ
+"abuser preventing person from meaningful occupation, activities or stimulation",boredom,NOUN
+"abuser preventing person from meaningful occupation, activities or stimulation",forbid,VERB
+"abuser preventing person from meaningful occupation, activities or stimulation",forbiddance,NOUN
+"abuser preventing person from meaningful occupation, activities or stimulation",forbidden,ADJ
+abuser preventing person from meeting religious or cultural needs,disrespect,NOUN
+abuser preventing person from meeting religious or cultural needs,disrespect,VERB
+abuser preventing person from meeting religious or cultural needs,disrespected,ADJ
+abuser preventing person from meeting religious or cultural needs,disrespecting,ADJ
+abuser preventing person from meeting religious or cultural needs,prevent,VERB
+abuser preventing person from meeting religious or cultural needs,prevented,ADJ
+abuser preventing person from meeting religious or cultural needs,preventing,ADJ
+abuser preventing person from meeting religious or cultural needs,prohibit,VERB
+abuser preventing person from meeting religious or cultural needs,prohibited,ADJ
+abuser preventing person from meeting religious or cultural needs,prohibiting,ADJ
+abuser preventing person from meeting religious or cultural needs,restrict,VERB
+abuser preventing person from meeting religious or cultural needs,restricted,ADJ
+abuser preventing person from meeting religious or cultural needs,restricting,ADJ
+abuser preventing person from meeting religious or cultural needs,restriction,NOUN
+abuser preventing person from meeting religious or cultural needs,suppress,VERB
+abuser preventing person from meeting religious or cultural needs,suppressed,ADJ
+abuser preventing person from meeting religious or cultural needs,suppressing,ADJ
+abuser preventing person from meeting religious or cultural needs,suppression,NOUN
+abuser removing mobility or communication aids,deprive,VERB
+abuser removing mobility or communication aids,deprived,ADJ
+abuser removing mobility or communication aids,depriving,ADJ
+abuser removing mobility or communication aids,disable,VERB
+abuser removing mobility or communication aids,disabling,ADJ
+abuser removing mobility or communication aids,helpless,ADJ
+abuser removing mobility or communication aids,helplessness,NOUN
+abuser removing mobility or communication aids,withheld,ADJ
+abuser removing mobility or communication aids,withhold,VERB
+abuser removing mobility or communication aids,withholding,ADJ
+abuser removing mobility or communication aids,withholding,NOUN
+addressing a person in a patronising or infantilising way,belittle,VERB
+addressing a person in a patronising or infantilising way,belittled,ADJ
+addressing a person in a patronising or infantilising way,belittlement,NOUN
+addressing a person in a patronising or infantilising way,belittling,ADJ
+addressing a person in a patronising or infantilising way,condescend,VERB
+addressing a person in a patronising or infantilising way,condescending,ADJ
+addressing a person in a patronising or infantilising way,condescension,NOUN
+addressing a person in a patronising or infantilising way,demean,VERB
+addressing a person in a patronising or infantilising way,demeaning,ADJ
+addressing a person in a patronising or infantilising way,disrespect,NOUN
+addressing a person in a patronising or infantilising way,disrespect,VERB
+addressing a person in a patronising or infantilising way,disrespected,ADJ
+addressing a person in a patronising or infantilising way,disrespecting,ADJ
+addressing a person in a patronising or infantilising way,infantilised,ADJ
+addressing a person in a patronising or infantilising way,infantilising,ADJ
+addressing a person in a patronising or infantilising way,infantilize,VERB
+addressing a person in a patronising or infantilising way,infantilized,ADJ
+addressing a person in a patronising or infantilising way,infantilizing,ADJ
+addressing a person in a patronising or infantilising way,mock,VERB
+addressing a person in a patronising or infantilising way,mocked,ADJ
+addressing a person in a patronising or infantilising way,mockery,NOUN
+addressing a person in a patronising or infantilising way,mocking,ADJ
+addressing a person in a patronising or infantilising way,patronising,ADJ
+addressing a person in a patronising or infantilising way,patronize,VERB
+addressing a person in a patronising or infantilising way,patronizing,ADJ
+aggressive behaviour,aggress,VERB
+aggressive behaviour,aggressed,ADJ
+aggressive behaviour,aggression,NOUN
+aggressive behaviour,aggressive,ADJ
+aggressive behaviour,aggressor,NOUN
+aggressive behaviour,anger,NOUN
+aggressive behaviour,angered,ADJ
+aggressive behaviour,angry,ADJ
+aggressive behaviour,scream,NOUN
+aggressive behaviour,scream,VERB
+aggressive behaviour,screamed,ADJ
+aggressive behaviour,screaming,ADJ
+aggressive behaviour,threat,NOUN
+aggressive behaviour,threaten,VERB
+aggressive behaviour,threatened,ADJ
+aggressive behaviour,threatening,ADJ
+aggressive behaviour,yell,NOUN
+aggressive behaviour,yell,VERB
+aggressive behaviour,yelled,ADJ
+aggressive behaviour,yelling,ADJ
+air of silence when a particular person is present,anxiety,NOUN
+air of silence when a particular person is present,anxious,NOUN
+air of silence when a particular person is present,discomfort,NOUN
+air of silence when a particular person is present,dread,NOUN
+air of silence when a particular person is present,dread,VERB
+air of silence when a particular person is present,fear,NOUN
+air of silence when a particular person is present,fearful,ADJ
+air of silence when a particular person is present,intimidated,ADJ
+air of silence when a particular person is present,tense,ADJ
+air of silence when a particular person is present,tension,NOUN
+air of silence when a particular person is present,uncomfortable,ADJ
+air of silence when a particular person is present,unease,NOUN
+air of silence when a particular person is present,uneasy,ADJ
+anger,anger,NOUN
+anger,anger,VERB
+anger,angered,ADJ
+anger,angry,ADJ
+anger,annoy,VERB
+anger,annoyed,ADJ
+anger,annoying,ADJ
+anger,enrage,VERB
+anger,enraged,ADJ
+anger,enraging,ADJ
+anger,frustrate,VERB
+anger,frustrated,ADJ
+anger,frustrating,ADJ
+anger,frustration,NOUN
+anger,fuming,ADJ
+anger,furious,ADJ
+anger,rage,NOUN
+anger,rage,VERB
+being emotionally upset or agitated,agitate,VERB
+being emotionally upset or agitated,agitated,ADJ
+being emotionally upset or agitated,agitating,ADJ
+being emotionally upset or agitated,depressed,ADJ
+being emotionally upset or agitated,depression,ADJ
+being emotionally upset or agitated,depression,NOUN
+being emotionally upset or agitated,distraught,ADJ
+being emotionally upset or agitated,emotion,NOUN
+being emotionally upset or agitated,emotional,ADJ
+being emotionally upset or agitated,frantic,ADJ
+being emotionally upset or agitated,hysteria,NOUN
+being emotionally upset or agitated,hysteric,ADJ
+being emotionally upset or agitated,panic,NOUN
+being emotionally upset or agitated,panicked,ADJ
+being emotionally upset or agitated,upset,ADJ
+being emotionally upset or agitated,upset,VERB
+being emotionally upset or agitated,upsetting,ADJ
+being extremely withdrawn,aloof,ADJ
+being extremely withdrawn,aloofness,NOUN
+being extremely withdrawn,detached,ADJ
+being extremely withdrawn,reclusive,ADJ
+being extremely withdrawn,withdraw,VERB
+being extremely withdrawn,withdrawal,NOUN
+being extremely withdrawn,withdrawn,ADJ
+being non communicative or non responsive,uncommunicative,ADJ
+being non communicative or non responsive,unresponsive,ADJ
+bullying,bullied,ADJ
+bullying,bully,NOUN
+bullying,bully,VERB
+bullying,intimidate,VERB
+bullying,intimidated,ADJ
+bullying,intimidating,ADJ
+bullying,intimidation,NOUN
+bullying,ridicule,VERB
+bullying,ridiculed,ADJ
+bullying,terrorize,VERB
+bullying,terrorized,ADJ
+bullying,tyrannize,VERB
+change in the psychological state of a person,meltdown,NOUN
+change in the psychological state of a person,moodiness,NOUN
+change in the psychological state of a person,unsettled,ADJ
+change of appetite,anorexia,NOUN
+change of appetite,anorexic,ADJ
+change of appetite,appetite,NOUN
+change of appetite,overeat,VERB
+change of appetite,undereat,VERB
+coercion,blackmail,NOUN
+coercion,blackmail,VERB
+coercion,blackmailed,ADJ
+coercion,blackmailing,ADJ
+coercion,coerce,VERB
+coercion,coerced,ADJ
+coercion,coercing,ADJ
+coercion,coercion,NOUN
+coercion,coercive,ADJ
+coercion,compel,VERB
+coercion,compelled,ADJ
+coercion,force,VERB
+coercion,impel,VERB
+coercion,impelled,ADJ
+coercion,impelling,ADJ
+coercion,intimidate,VERB
+coercion,intimidated,ADJ
+coercion,intimidating,ADJ
+coercion,intimidation,NOUN
+coercion,pressure,VERB
+coercion,pressured,ADJ
+cyber bullying,catfish,VERB
+cyber bullying,catfishing,NOUN
+cyber bullying,cyberstalking,NOUN
+cyber bullying,defamation,NOUN
+cyber bullying,defame,VERB
+cyber bullying,harass,VERB
+cyber bullying,harassed,ADJ
+cyber bullying,harassing,ADJ
+cyber bullying,harassment,NOUN
+cyber bullying,shame,VERB
+cyber bullying,troll,NOUN
+cyber bullying,troll,VERB
+enforced social isolation,alone,ADJ
+enforced social isolation,isolate,VERB
+enforced social isolation,isolated,ADJ
+enforced social isolation,isolating,ADJ
+enforced social isolation,isolation,NOUN
+enforced social isolation,loneliness,NOUN
+enforced social isolation,seclude,VERB
+enforced social isolation,secluded,ADJ
+enforced social isolation,seclusion,NOUN
+enforced social isolation,solitude,NOUN
+harassment,harass,VERB
+harassment,harassed,ADJ
+harassment,harasser,NOUN
+harassment,harassing,ADJ
+harassment,harassment,NOUN
+harassment,stalk,VERB
+harassment,stalked,ADJ
+harassment,stalker,NOUN
+harassment,stalking,ADJ
+harassment,stalking,NOUN
+humiliation,abase,VERB
+humiliation,abased,ADJ
+humiliation,abasement,NOUN
+humiliation,abasing,ADJ
+humiliation,degradation,NOUN
+humiliation,degrade,VERB
+humiliation,degraded,ADJ
+humiliation,degrading,ADJ
+humiliation,demean,VERB
+humiliation,demeaning,ADJ
+humiliation,embarrass,VERB
+humiliation,embarrassed,ADJ
+humiliation,embarrassing,ADJ
+humiliation,embarrassment,NOUN
+humiliation,humiliate,VERB
+humiliation,humiliated,ADJ
+humiliation,humiliating,ADJ
+humiliation,humiliation,NOUN
+humiliation,mock,VERB
+humiliation,mocked,ADJ
+humiliation,mockery,NOUN
+humiliation,mocking,ADJ
+humiliation,ridicule,NOUN
+humiliation,ridicule,VERB
+humiliation,ridiculed,ADJ
+humiliation,ridiculing,ADJ
+humiliation,shame,NOUN
+humiliation,shame,VERB
+humiliation,shamed,ADJ
+humiliation,shaming,ADJ
+insomnia,fatigue,NOUN
+insomnia,insomnia,NOUN
+insomnia,insomniac,NOUN
+insomnia,restlessness,NOUN
+insomnia,sleepless,ADJ
+insomnia,sleeplessness,NOUN
+intimidation,intimidate,VERB
+intimidation,intimidated,ADJ
+intimidation,intimidating,ADJ
+intimidation,intimidation,NOUN
+intimidation,threat,NOUN
+intimidation,threaten,VERB
+intimidation,threatened,ADJ
+intimidation,threatening,ADJ
+low self-esteem,ashamed,ADJ
+low self-esteem,guilt,NOUN
+low self-esteem,insecure,ADJ
+low self-esteem,insecurity,NOUN
+low self-esteem,shame,NOUN
+low self-esteem,worthless,ADJ
+low self-esteem,worthlessness,NOUN
+mental mistreatment,brainwash,NOUN
+mental mistreatment,brainwash,VERB
+mental mistreatment,brainwashed,ADJ
+mental mistreatment,brainwashing,NOUN
+mental mistreatment,deceive,VERB
+mental mistreatment,deceived,ADJ
+mental mistreatment,deceiving,ADJ
+mental mistreatment,deception,NOUN
+mental mistreatment,deception,NOUN
+mental mistreatment,gaslight,VERB
+mental mistreatment,gaslighted,ADJ
+mental mistreatment,gaslighting,ADJ
+mental mistreatment,gaslighting,NOUN
+mental mistreatment,invalidate,VERB
+mental mistreatment,invalidated,ADJ
+mental mistreatment,invalidating,ADJ
+mental mistreatment,invalidation,NOUN
+mental mistreatment,manipulate,VERB
+mental mistreatment,manipulated,ADJ
+mental mistreatment,manipulating,ADJ
+mental mistreatment,manipulation,ADJ
+mental mistreatment,mental,ADJ
+mental mistreatment,mistreatment,NOUN
+mental mistreatment,psychological,ADJ
+mental mistreatment,toxic,ADJ
+nervousness around certain people,anxiety,NOUN
+nervousness around certain people,anxious,ADJ
+nervousness around certain people,nervous,ADJ
+nervousness around certain people,nervousness,NOUN
+nervousness around certain people,scared,ADJ
+nervousness around certain people,tense,ADJ
+nervousness around certain people,terrified,ADJ
+not respecting privacy,eavesdrop,VERB
+not respecting privacy,eavesdropping,NOUN
+not respecting privacy,infringe,VERB
+not respecting privacy,infringement,NOUN
+not respecting privacy,infringer,NOUN
+not respecting privacy,infringing,ADJ
+not respecting privacy,privacy,NOUN
+not respecting privacy,snoop,NOUN
+not respecting privacy,snoop,VERB
+signs of distress,distress,NOUN
+signs of distress,distress,VERB
+signs of distress,distressed,ADJ
+signs of distress,distressing,ADJ
+signs of distress,panic,ADJ
+signs of distress,panic,NOUN
+signs of distress,panic,VERB
+signs of distress,panicked,ADJ
+signs of distress,stress,NOUN
+signs of distress,stress,VERB
+signs of distress,stressed,ADJ
+signs of distress,stressful,ADJ
+signs of distress,stressing,ADJ
+swearing,curse,VERB
+swearing,denigrate,VERB
+swearing,denigrated,ADJ
+swearing,denigrating,ADJ
+swearing,denigration,NOUN
+swearing,insult,NOUN
+swearing,insult,VERB
+swearing,slander,NOUN
+swearing,slander,VERB
+swearing,slandered,ADJ
+swearing,slandering,ADJ
+swearing,swear,VERB
+swearing,swearing,NOUN
+tearfulness,bawl,VERB
+tearfulness,bawling,ADJ
+tearfulness,cry,VERB
+tearfulness,crybaby,NOUN
+tearfulness,snivel,VERB
+tearfulness,sniveling,ADJ
+tearfulness,sob,VERB
+tearfulness,sobbing,ADJ
+tearfulness,tear,NOUN
+tearfulness,tearful,ADJ
+tearfulness,tearfulness,NOUN
+tearfulness,teary,ADJ
+tearfulness,weep,VERB
+tearfulness,weeping,ADJ
+tearfulness,whimper,VERB
+tearfulness,whimpering,ADJ
+threats of abandonment,abandon,VERB
+threats of abandonment,abandoned,ADJ
+threats of abandonment,abandoning,ADJ
+threats of abandonment,abandonment,NOUN
+threats of abandonment,ditch,VERB
+threats of abandonment,leave,VERB
+threats of abandonment,threat,NOUN
+threats of abandonment,threaten,VERB
+threats of abandonment,ultimatum,NOUN
+threats of harm,harm,NOUN
+threats of harm,harm,VERB
+threats of harm,hurt,VERB
+threats of harm,hurting,ADJ
+threats of harm,punish,VERB
+threats of harm,punished,ADJ
+threats of harm,punishment,NOUN
+threats of harm,threat,NOUN
+threats of harm,threaten,VERB
+uncooperative behaviour,uncooperative,ADJ
+"unusual behavior usually attributed to dementia (e.g., sucking, biting, rocking)",agitated,ADJ
+"unusual behavior usually attributed to dementia (e.g., sucking, biting, rocking)",confused,ADJ
+"unusual behavior usually attributed to dementia (e.g., sucking, biting, rocking)",disoriented,ADJ
+"unusual behavior usually attributed to dementia (e.g., sucking, biting, rocking)",restless,ADJ
+use of threats,blackmail,NOUN
+use of threats,blackmail,VERB
+use of threats,blackmailed,ADJ
+use of threats,blackmailing,ADJ
+use of threats,coerce,VERB
+use of threats,coerced,ADJ
+use of threats,coercing,ADJ
+use of threats,coercion,NOUN
+use of threats,coercive,ADJ
+use of threats,intimidate,VERB
+use of threats,intimidated,ADJ
+use of threats,intimidating,ADJ
+use of threats,intimidation,NOUN
+use of threats,threat,NOUN
+use of threats,threaten,VERB
+use of threats,threatened,ADJ
+use of threats,threatening,ADJ
+use of threats,ultimatum,NOUN
+verbal abuse,accusation,NOUN
+verbal abuse,accuse,VERB
+verbal abuse,accused,ADJ
+verbal abuse,accusing,ADJ
+verbal abuse,belittle,VERB
+verbal abuse,belittled,ADJ
+verbal abuse,belittlement,NOUN
+verbal abuse,belittling,ADJ
+verbal abuse,berate,VERB
+verbal abuse,berated,ADJ
+verbal abuse,berating,ADJ
+verbal abuse,blame,NOUN
+verbal abuse,blame,VERB
+verbal abuse,blamed,ADJ
+verbal abuse,blaming,ADJ
+verbal abuse,coerce,VERB
+verbal abuse,coerced,ADJ
+verbal abuse,coercing,ADJ
+verbal abuse,coercion,NOUN
+verbal abuse,coercive,ADJ
+verbal abuse,degradation,NOUN
+verbal abuse,degrade,VERB
+verbal abuse,degraded,ADJ
+verbal abuse,degrading,ADJ
+verbal abuse,disparaging,ADJ
+verbal abuse,harass,VERB
+verbal abuse,harassed,ADJ
+verbal abuse,harassing,ADJ
+verbal abuse,harassment,NOUN
+verbal abuse,humiliate,VERB
+verbal abuse,humiliated,ADJ
+verbal abuse,humiliating,ADJ
+verbal abuse,humiliation,NOUN
+verbal abuse,insult,NOUN
+verbal abuse,insult,VERB
+verbal abuse,insulted,ADJ
+verbal abuse,insulting,ADJ
+verbal abuse,mock,VERB
+verbal abuse,mocked,ADJ
+verbal abuse,mockery,NOUN
+verbal abuse,mocking,ADJ
+verbal abuse,ridicule,NOUN
+verbal abuse,ridicule,VERB
+verbal abuse,ridiculed,ADJ
+verbal abuse,ridiculing,ADJ
+verbal abuse,scapegoat,NOUN
+verbal abuse,scapegoat,VERB
+verbal abuse,scold,VERB
+verbal abuse,scolded,ADJ
+verbal abuse,scolding,ADJ
+verbal abuse,scolding,NOUN
+verbal abuse,scream,NOUN
+verbal abuse,scream,VERB
+verbal abuse,screamed,ADJ
+verbal abuse,screaming,ADJ
+verbal abuse,shame,NOUN
+verbal abuse,shame,VERB
+verbal abuse,shamed,ADJ
+verbal abuse,shaming,ADJ
+verbal abuse,shaming,NOUN
+verbal abuse,slander,NOUN
+verbal abuse,slander,VERB
+verbal abuse,slandered,ADJ
+verbal abuse,slandering,ADJ
+verbal abuse,swear,VERB
+verbal abuse,swearing,NOUN
+verbal abuse,verbal,ADJ
+verbal abuse,yell,VERB
+verbal abuse,yelled,ADJ
+verbal abuse,yelling,ADJ
+verbal abuse,yelling,NOUN
+weight gain or weight loss,anorexia,NOUN
+weight gain or weight loss,anorexic,ADJ
+weight gain or weight loss,overweight,ADJ
+weight gain or weight loss,overweight,NOUN
+weight gain or weight loss,underweight,ADJ
+weight gain or weight loss,underweight,NOUN

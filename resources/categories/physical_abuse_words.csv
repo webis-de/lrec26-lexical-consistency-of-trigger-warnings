@@ -1,0 +1,494 @@
+indicator,word,pos_tag
+assault,aggress,VERB
+assault,aggressed,ADJ
+assault,aggression,NOUN
+assault,aggressive,ADJ
+assault,aggressor,NOUN
+assault,assault,NOUN
+assault,assault,VERB
+assault,assaulted,ADJ
+assault,assaulter,NOUN
+assault,assaulting,ADJ
+assault,attack,NOUN
+assault,attack,VERB
+assault,attacked,VERB
+assault,attacker,NOUN
+assault,attacking,VERB
+assault,batter,VERB
+assault,battered,ADJ
+assault,batterer,NOUN
+assault,battering,ADJ
+assault,battering,NOUN
+assault,choke,VERB
+assault,choked,ADJ
+assault,harm,NOUN
+assault,harm,VERB
+assault,harmer,NOUN
+assault,harmful,ADJ
+assault,strangle,VERB
+assault,strangled,ADJ
+assault,violate,VERB
+assault,violated,ADJ
+assault,violator,NOUN
+assault,violence,NOUN
+assault,violent,ADJ
+biting,bite,NOUN
+biting,bite,VERB
+biting,biting,ADJ
+biting,bitten,ADJ
+biting,gnaw,VERB
+biting,gnawed,ADJ
+black eyes,shiner,NOUN
+black eyes,swell,VERB
+black eyes,swelling,NOUN
+black eyes,swollen,ADJ
+broken bones,bone,NOUN
+broken bones,break,VERB
+broken bones,broken,ADJ
+broken bones,crack,VERB
+broken bones,cracked,ADJ
+broken bones,disjoin,VERB
+broken bones,disjointed,ADJ
+broken bones,dislocate,VERB
+broken bones,dislocated,ADJ
+broken bones,fracture,NOUN
+broken bones,fracture,VERB
+broken bones,fractured,ADJ
+broken bones,injure,VERB
+broken bones,injured,ADJ
+broken bones,injury,NOUN
+broken bones,snap,VERB
+broken bones,snapped,ADJ
+broken bones,splinter,VERB
+broken bones,splintered,ADJ
+broken eyeglasses,shattered,ADJ
+broken eyeglasses,smashed,ADJ
+bruising,bruise,NOUN
+bruising,bruise,VERB
+bruising,bruised,ADJ
+bruising,bruising,ADJ
+bruising,bruising,NOUN
+bruising,contuse,VERB
+bruising,contused,ADJ
+bruising,contusing,ADJ
+bruising,contusion,NOUN
+bruising,discolor,VERB
+bruising,discoloration,NOUN
+bruising,discolored,ADJ
+bruising,discoloring,ADJ
+bruising,hematoma,NOUN
+bruising,injure,VERB
+bruising,injured,ADJ
+bruising,injurer,NOUN
+bruising,injuring,ADJ
+bruising,injury,NOUN
+bruising,swell,NOUN
+bruising,swell,VERB
+bruising,swelling,ADJ
+bruising,swelling,NOUN
+bruising,swollen,ADJ
+burning,burn,NOUN
+burning,burn,VERB
+burning,burned,ADJ
+burning,burning,ADJ
+burning,burning,NOUN
+burning,scald,NOUN
+burning,scald,VERB
+burning,scalded,ADJ
+burning,scalding,ADJ
+cuts,carving,ADJ
+cuts,cut,NOUN
+cuts,cut,VERB
+cuts,cutter,NOUN
+cuts,cutting,NOUN
+cuts,knife,NOUN
+cuts,lacerate,VERB
+cuts,lacerated,ADJ
+cuts,lacerating,ADJ
+cuts,laceration,NOUN
+cuts,scar,NOUN
+cuts,scar,VERB
+cuts,scarred,ADJ
+cuts,scarring,ADJ
+cuts,scarring,NOUN
+cuts,slash,NOUN
+cuts,slash,VERB
+cuts,slashed,ADJ
+cuts,slashing,ADJ
+cuts,slice,VERB
+cuts,slit,VERB
+cuts,stab,NOUN
+cuts,stab,VERB
+cuts,stabbed,ADJ
+cuts,stabber,NOUN
+cuts,stabbing,ADJ
+cuts,stabbing,NOUN
+cuts,wound,NOUN
+cuts,wound,VERB
+cuts,wounded,ADJ
+cuts,wounding,ADJ
+forcible feeding,fatten,VERB
+forcible feeding,fattening,ADJ
+forcible feeding,fattening,NOUN
+forcible feeding,overfed,ADJ
+forcible feeding,overfeed,VERB
+forcible feeding,overfeeding,NOUN
+frequent injuries,injure,VERB
+frequent injuries,injured,ADJ
+frequent injuries,injurer,NOUN
+frequent injuries,injuring,ADJ
+frequent injuries,injury,NOUN
+hair-pulling,pull,NOUN
+hair-pulling,pull,VERB
+hair-pulling,pulling,ADJ
+hair-pulling,rip,NOUN
+hair-pulling,rip,VERB
+hair-pulling,wrest,NOUN
+hair-pulling,wrest,VERB
+hair-pulling,wrested,ADJ
+hair-pulling,wresting,ADJ
+hair-pulling,yank,NOUN
+hair-pulling,yank,VERB
+hitting,bash,NOUN
+hitting,bash,VERB
+hitting,bashed,ADJ
+hitting,basher,NOUN
+hitting,bashing,ADJ
+hitting,batter,VERB
+hitting,battered,ADJ
+hitting,battering,ADJ
+hitting,beat,VERB
+hitting,beaten,ADJ
+hitting,beating,NOUN
+hitting,clobber,VERB
+hitting,hit,ADJ
+hitting,hit,VERB
+hitting,hitter,NOUN
+hitting,hitting,ADJ
+hitting,pummel,VERB
+hitting,pummeled,ADJ
+hitting,pummeling,ADJ
+hitting,smack,NOUN
+hitting,smack,VERB
+hitting,smacked,ADJ
+hitting,smacking,ADJ
+hitting,smash,VERB
+hitting,strike,VERB
+hitting,struck,ADJ
+hitting,thrash,NOUN
+hitting,thrash,VERB
+hitting,thrashed,ADJ
+hitting,thrashing,ADJ
+hitting,thrashing,NOUN
+hitting,thump,NOUN
+hitting,thump,VERB
+hitting,whack,NOUN
+hitting,whack,VERB
+hitting,whacked,ADJ
+inappropriate or unlawful use of restraint,bind,NOUN
+inappropriate or unlawful use of restraint,bind,VERB
+inappropriate or unlawful use of restraint,binding,ADJ
+inappropriate or unlawful use of restraint,bound,ADJ
+inappropriate or unlawful use of restraint,chain,NOUN
+inappropriate or unlawful use of restraint,chain,VERB
+inappropriate or unlawful use of restraint,chained,ADJ
+inappropriate or unlawful use of restraint,chaining,ADJ
+inappropriate or unlawful use of restraint,constrain,VERB
+inappropriate or unlawful use of restraint,constrained,ADJ
+inappropriate or unlawful use of restraint,constraining,ADJ
+inappropriate or unlawful use of restraint,cuff,NOUN
+inappropriate or unlawful use of restraint,cuff,VERB
+inappropriate or unlawful use of restraint,cuffed,ADJ
+inappropriate or unlawful use of restraint,detain,VERB
+inappropriate or unlawful use of restraint,detained,ADJ
+inappropriate or unlawful use of restraint,detaining,ADJ
+inappropriate or unlawful use of restraint,detainment,NOUN
+inappropriate or unlawful use of restraint,handcuff,NOUN
+inappropriate or unlawful use of restraint,handcuff,VERB
+inappropriate or unlawful use of restraint,handcuffed,ADJ
+inappropriate or unlawful use of restraint,lock,VERB
+inappropriate or unlawful use of restraint,locked,ADJ
+inappropriate or unlawful use of restraint,restrain,VERB
+inappropriate or unlawful use of restraint,restrained,ADJ
+inappropriate or unlawful use of restraint,restraining,ADJ
+inappropriate or unlawful use of restraint,restraint,NOUN
+inappropriate or unlawful use of restraint,shackle,NOUN
+inappropriate or unlawful use of restraint,shackle,VERB
+inappropriate or unlawful use of restraint,shackled,ADJ
+inappropriate or unlawful use of restraint,shackling,ADJ
+inappropriate or unlawful use of restraint,strap,VERB
+inappropriate or unlawful use of restraint,strapped,ADJ
+inappropriate or unlawful use of restraint,tie,VERB
+inappropriate or unlawful use of restraint,tied,ADJ
+inappropriate or unlawful use of restraint,trap,NOUN
+inappropriate or unlawful use of restraint,trap,VERB
+inappropriate or unlawful use of restraint,trapped,ADJ
+inappropriate or unlawful use of restraint,trapping,ADJ
+inappropriate or unlawful use of restraint,tying,ADJ
+involuntary isolation or confinement,captive,ADJ
+involuntary isolation or confinement,captive,NOUN
+involuntary isolation or confinement,captivity,NOUN
+involuntary isolation or confinement,captor,NOUN
+involuntary isolation or confinement,capture,VERB
+involuntary isolation or confinement,captured,ADJ
+involuntary isolation or confinement,confine,NOUN
+involuntary isolation or confinement,confine,VERB
+involuntary isolation or confinement,confined,ADJ
+involuntary isolation or confinement,confinement,NOUN
+involuntary isolation or confinement,confining,ADJ
+involuntary isolation or confinement,imprison,VERB
+involuntary isolation or confinement,imprisoned,ADJ
+involuntary isolation or confinement,imprisoning,ADJ
+involuntary isolation or confinement,incarcerate,VERB
+involuntary isolation or confinement,incarcerated,ADJ
+involuntary isolation or confinement,incarcerating,ADJ
+involuntary isolation or confinement,incarceration,NOUN
+involuntary isolation or confinement,isolate,VERB
+involuntary isolation or confinement,isolated,ADJ
+involuntary isolation or confinement,isolating,ADJ
+involuntary isolation or confinement,isolation,NOUN
+involuntary isolation or confinement,prison,NOUN
+involuntary isolation or confinement,prisoner,NOUN
+kicking,kick,NOUN
+kicking,kick,VERB
+kicking,kicked,ADJ
+kicking,kicking,ADJ
+kicking,kicking,NOUN
+kicking,stomp,NOUN
+kicking,stomp,VERB
+kicking,strike,VERB
+kicking,struck,ADJ
+lacerations,bleed,VERB
+lacerations,bleeding,ADJ
+lacerations,blood,NOUN
+lacerations,gash,NOUN
+lacerations,gash,VERB
+lacerations,gashed,ADJ
+lacerations,gashing,ADJ
+lacerations,lacerate,VERB
+lacerations,lacerated,ADJ
+lacerations,lacerating,ADJ
+lacerations,laceration,NOUN
+lacerations,mutilate,VERB
+lacerations,mutilated,ADJ
+lacerations,mutilating,ADJ
+lacerations,mutilation,NOUN
+lacerations,pierce,VERB
+lacerations,pierced,ADJ
+lacerations,piercing,ADJ
+lacerations,slash,NOUN
+lacerations,slash,VERB
+lacerations,slashed,ADJ
+lacerations,slashing,ADJ
+lacerations,slice,NOUN
+lacerations,slice,VERB
+lacerations,sliced,ADJ
+lacerations,slicing,ADJ
+lacerations,stab,NOUN
+lacerations,stab,VERB
+lacerations,stabbed,ADJ
+lacerations,stabbing,ADJ
+lacerations,stabbing,NOUN
+lacerations,wound,NOUN
+lacerations,wound,VERB
+lacerations,wounded,ADJ
+lacerations,wounding,ADJ
+marks on body,abrasion,NOUN
+marks on body,bruise,NOUN
+marks on body,bruise,VERB
+marks on body,bruised,ADJ
+marks on body,bruising,ADJ
+marks on body,bruising,NOUN
+marks on body,contuse,VERB
+marks on body,contused,ADJ
+marks on body,contusing,ADJ
+marks on body,contusion,NOUN
+marks on body,injure,VERB
+marks on body,injured,ADJ
+marks on body,injurer,NOUN
+marks on body,injuring,ADJ
+marks on body,injury,NOUN
+marks on body,lesion,NOUN
+misuse of medication (e.g. over-sedation),drug,NOUN
+misuse of medication (e.g. over-sedation),drug,VERB
+misuse of medication (e.g. over-sedation),drugged,ADJ
+misuse of medication (e.g. over-sedation),drugging,ADJ
+misuse of medication (e.g. over-sedation),drugging,NOUN
+misuse of medication (e.g. over-sedation),intoxicate,VERB
+misuse of medication (e.g. over-sedation),intoxicated,ADJ
+misuse of medication (e.g. over-sedation),intoxicating,ADJ
+misuse of medication (e.g. over-sedation),intoxication,NOUN
+misuse of medication (e.g. over-sedation),numb,ADJ
+misuse of medication (e.g. over-sedation),numb,VERB
+misuse of medication (e.g. over-sedation),overdose,NOUN
+misuse of medication (e.g. over-sedation),overdose,VERB
+misuse of medication (e.g. over-sedation),overdosed,ADJ
+misuse of medication (e.g. over-sedation),overdosing,ADJ
+misuse of medication (e.g. over-sedation),overmedicate,VERB
+misuse of medication (e.g. over-sedation),overmedicated,ADJ
+misuse of medication (e.g. over-sedation),overmedicating,ADJ
+misuse of medication (e.g. over-sedation),overmedication,NOUN
+misuse of medication (e.g. over-sedation),sedate,VERB
+misuse of medication (e.g. over-sedation),sedated,ADJ
+misuse of medication (e.g. over-sedation),sedating,ADJ
+misuse of medication (e.g. over-sedation),sedation,NOUN
+open wounds,abrasion,NOUN
+open wounds,bleed,VERB
+open wounds,bleeding,ADJ
+open wounds,blood,NOUN
+open wounds,fester,VERB
+open wounds,festering,ADJ
+open wounds,gaping,ADJ
+open wounds,infect,VERB
+open wounds,infected,ADJ
+open wounds,infecting,ADJ
+open wounds,infection,NOUN
+open wounds,lesion,NOUN
+open wounds,ulcer,NOUN
+open wounds,unhealed,ADJ
+open wounds,wound,NOUN
+open wounds,wound,VERB
+open wounds,wounded,ADJ
+open wounds,wounding,ADJ
+physical punishment,cane,NOUN
+physical punishment,cane,VERB
+physical punishment,caning,NOUN
+physical punishment,chasten,VERB
+physical punishment,chastened,ADJ
+physical punishment,chastise,VERB
+physical punishment,chastised,ADJ
+physical punishment,chastisement,NOUN
+physical punishment,disciplinary,ADJ
+physical punishment,discipline,VERB
+physical punishment,punish,VERB
+physical punishment,punished,ADJ
+physical punishment,punishing,ADJ
+physical punishment,punishment,NOUN
+physical punishment,punitive,ADJ
+physical punishment,slap,NOUN
+physical punishment,slap,VERB
+physical punishment,slapped,ADJ
+physical punishment,slapping,NOUN
+physical punishment,smack,NOUN
+physical punishment,smack,VERB
+physical punishment,smacked,ADJ
+physical punishment,smacking,ADJ
+physical punishment,spank,NOUN
+physical punishment,spank,VERB
+physical punishment,spanked,ADJ
+physical punishment,spanking,NOUN
+physical punishment,whip,NOUN
+physical punishment,whip,VERB
+physical punishment,whipped,ADJ
+physical punishment,whipping,ADJ
+physical punishment,whipping,NOUN
+punching,biff,NOUN
+punching,biff,VERB
+punching,jab,NOUN
+punching,jab,VERB
+punching,pummel,VERB
+punching,pummeled,ADJ
+punching,pummeling,ADJ
+punching,punch,NOUN
+punching,punch,VERB
+punching,punched,ADJ
+punching,punching,ADJ
+punching,punching,NOUN
+punching,uppercut,NOUN
+punctures,pierce,VERB
+punctures,pierced,ADJ
+punctures,puncture,NOUN
+punctures,puncture,VERB
+punctures,punctured,ADJ
+punctures,puncturing,ADJ
+pushing,push,NOUN
+pushing,push,VERB
+pushing,pushed,ADJ
+pushing,pushing,ADJ
+pushing,shove,NOUN
+pushing,shove,VERB
+pushing,shoved,ADJ
+pushing,shoving,ADJ
+rope marks,chafe,VERB
+rope marks,chafed,ADJ
+rope marks,rope,NOUN
+rope marks,rope,VERB
+rough handling,manhandle,VERB
+rough handling,manhandled,ADJ
+rough handling,roughhouse,VERB
+rough handling,roughhoused,ADJ
+rough handling,roughhousing,ADJ
+rough handling,shove,NOUN
+rough handling,shove,VERB
+rough handling,shoved,ADJ
+rough handling,shoving,ADJ
+signs of malnutrition,deficient,ADJ
+signs of malnutrition,emaciated,ADJ
+signs of malnutrition,frail,ADJ
+signs of malnutrition,hungry,ADJ
+signs of malnutrition,malnourished,ADJ
+signs of malnutrition,malnourishment,NOUN
+signs of malnutrition,malnutrition,NOUN
+signs of malnutrition,skeletal,ADJ
+signs of malnutrition,starvation,NOUN
+signs of malnutrition,starve,VERB
+signs of malnutrition,starved,ADJ
+signs of malnutrition,starving,ADJ
+signs of malnutrition,underfed,ADJ
+signs of malnutrition,underfeed,VERB
+slapping,slap,NOUN
+slapping,slap,VERB
+slapping,slapped,ADJ
+slapping,slapping,NOUN
+slapping,smack,NOUN
+slapping,smack,VERB
+slapping,smacked,ADJ
+slapping,smacking,ADJ
+slapping,spank,NOUN
+slapping,spank,VERB
+slapping,spanked,ADJ
+slapping,spanking,NOUN
+subdued or changed behaviour in the presence of a particular person,cowed,ADJ
+subdued or changed behaviour in the presence of a particular person,diminished,ADJ
+subdued or changed behaviour in the presence of a particular person,fearful,ADJ
+subdued or changed behaviour in the presence of a particular person,frightened,ADJ
+subdued or changed behaviour in the presence of a particular person,nervous,ADJ
+subdued or changed behaviour in the presence of a particular person,scared,ADJ
+subdued or changed behaviour in the presence of a particular person,unease,NOUN
+subdued or changed behaviour in the presence of a particular person,uneasy,ADJ
+underdose of medication,deficient,ADJ
+underdose of medication,underdosage,NOUN
+underdose of medication,underdose,NOUN
+underdose of medication,underdose,VERB
+underdose of medication,underdosed,ADJ
+vulnerable adult's sudden change in behavior,aggression,NOUN
+vulnerable adult's sudden change in behavior,anxiety,NOUN
+vulnerable adult's sudden change in behavior,depression,NOUN
+vulnerable adult's sudden change in behavior,fearful,ADJ
+vulnerable adult's sudden change in behavior,flinch,NOUN
+vulnerable adult's sudden change in behavior,flinch,VERB
+vulnerable adult's sudden change in behavior,irritability,NOUN
+vulnerable adult's sudden change in behavior,irritated,ADJ
+vulnerable adult's sudden change in behavior,isolate,VERB
+vulnerable adult's sudden change in behavior,isolated,ADJ
+vulnerable adult's sudden change in behavior,isolating,ADJ
+vulnerable adult's sudden change in behavior,isolation,NOUN
+vulnerable adult's sudden change in behavior,restless,ADJ
+vulnerable adult's sudden change in behavior,restlessness,NOUN
+vulnerable adult's sudden change in behavior,withdraw,VERB
+vulnerable adult's sudden change in behavior,withdrawal,NOUN
+welts,welt,NOUN
+welts,welt,VERB
+withholding food,denial,NOUN
+withholding food,denied,ADJ
+withholding food,deny,VERB
+withholding food,deprivation,NOUN
+withholding food,deprive,VERB
+withholding food,deprived,ADJ
+withholding food,depriving,ADJ
+withholding food,starvation,NOUN
+withholding food,starve,VERB
+withholding food,starved,ADJ
+withholding food,starving,ADJ
+withholding food,withheld,ADJ
+withholding food,withhold,VERB
