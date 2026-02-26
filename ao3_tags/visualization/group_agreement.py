@@ -32,7 +32,12 @@ def main(warning: str):
         df_alpha["category"] = category
         df = pd.concat([df, df_alpha])
 
-    df = df.pivot(index=["sd_attribute", "sd_value"], columns="category", values="alpha").reset_index()
+    df_group = df.pivot(index=["sd_attribute", "sd_value"], columns="category", values="alpha_group").reset_index()
+    df_all = df.pivot(index=["sd_attribute", "sd_value"], columns="category", values="alpha_all").reset_index()
+    df_diff = df.pivot(index=["sd_attribute", "sd_value"], columns="category", values="alpha_diff").reset_index()
+    df = pd.merge(df_group, df_all, on=["sd_attribute", "sd_value"], suffixes=("", "_all"))
+    df = pd.merge(df, df_diff, on=["sd_attribute", "sd_value"], suffixes=("", "_diff"))
+
     output_path = VISUALIZATION_PATH / f"group_agreement.csv"
     df.to_csv(output_path, index=False)
     print(f"\n\nCreated CSV of groupwise Krippendorff's Alpha under {output_path}")
@@ -42,6 +47,9 @@ def category_alpha(warning: str, category: str):
     print(f"\nKrippendorffs's Alpha for {category}")
     job_id = CATEGORY_TO_ID[category]
     df = load_annotations(warning=warning, job_id=job_id)
+
+    # Calculate Krippendorff's alpha across all profiles
+    alpha_all = calculate_alpha_group(df_group=df)
 
     records = []
     for col in SD_COLUMNS:
@@ -55,7 +63,9 @@ def category_alpha(warning: str, category: str):
             records.append({
                 "sd_attribute": col,
                 "sd_value": unique_v,
-                "alpha": alpha,
+                "alpha_group": alpha,
+                "alpha_all": alpha_all,
+                "alpha_diff": alpha-alpha_all
             })
 
     print("- Collected all groupwise agreements")
